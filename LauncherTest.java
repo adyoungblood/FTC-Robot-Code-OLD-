@@ -186,6 +186,12 @@ public class Shoot01 extends OpMode
         }
     }
 
+    public void arm_reset_and_shoot() {
+        
+       if (button_x) {
+            shooter_motor_1.setPosition 
+       }
+    }
 
 
 
